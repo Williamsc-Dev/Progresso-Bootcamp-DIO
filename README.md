@@ -1,10 +1,8 @@
 # Progressão nos Estudos BootCamp DIO
 
-![](D:\Users\willa\Desktop\Programação%20Full%20Stack\Logica%20de%20Programação\DIO%20-%20Iffod%20-%20JAva%20Beginners\Logo%20bootcamp%20iFood.webp)
-
-* * *
-
 ## 
+
+![](https://hermes.digitalinnovation.one/tracks/8c36ef13-eebb-4efa-9a13-31f1c315fc02.png)
 
 ### Prespare-se para a Jornada (Onboarding)
 
