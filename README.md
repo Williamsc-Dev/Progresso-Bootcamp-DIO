@@ -4,7 +4,9 @@
 
 ![](https://hermes.digitalinnovation.one/tracks/8c36ef13-eebb-4efa-9a13-31f1c315fc02.png)
 
-### Prespare-se para a Jornada (Onboarding)
+### <details><summary>Prespare-se para a Jornada (Onboarding)</summary>
+
+<p>
 
 ##### Boas-vindas ao Potência Tech powered by iFood - Java Beginners
 
@@ -21,6 +23,10 @@
 **Introdução ao Desenvolvimento Moderno de Software**
 
 [Certificado](https://certificates.digitalinnovation.one/86AA3DA6)
+
+</p>
+
+</details>
 
 ### Princípios de Desenvolvimento de Software
 
