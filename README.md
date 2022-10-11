@@ -4,7 +4,9 @@
 
 ![](https://hermes.digitalinnovation.one/tracks/8c36ef13-eebb-4efa-9a13-31f1c315fc02.png)
 
-### <details>Prespare-se para a Jornada (Onboarding)
+### Prespare-se para a Jornada (Onboarding)
+
+####<details><summary>Módulos</summary></details>
 
 **Boas-vindas ao Potência Tech powered by iFood - Java Beginners**
 
@@ -22,7 +24,7 @@
 
 [Certificado](https://certificates.digitalinnovation.one/86AA3DA6)
 
-<details>
+
 
  
 
